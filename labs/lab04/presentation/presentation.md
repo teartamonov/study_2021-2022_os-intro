@@ -1,6 +1,5 @@
 ---
 ## Front matter
-marp: true
 lang: ru-RU
 title: 
         Лабораторная работа 4
@@ -10,6 +9,7 @@ institute: RUDN University, Moscow, Russian Federation
 date: April 30^th^ 2022
 
 ## Formatting
+marp: true
 toc: false
 slide_level: 2
 theme: metropolis
