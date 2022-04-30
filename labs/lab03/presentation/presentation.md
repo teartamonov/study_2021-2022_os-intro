@@ -3,10 +3,8 @@
 lang: ru-RU
 title: Лабораторная работа 3
 subtitle: Markdown
-author: |
-	Timofey E. Artamonov\inst{1}
-institute: |
-	inst{1}RUDN University, Moscow, Russian Federation
+author: Timofey E. Artamonov\inst{1}
+institute: inst{1}RUDN University, Moscow, Russian Federation
 date: April 30^th^ 2022
 
 ## Formatting
