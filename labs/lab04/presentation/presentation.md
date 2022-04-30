@@ -1,7 +1,6 @@
 ---
-marp: true
----
 ## Front matter
+marp: true
 lang: ru-RU
 title: 
         Лабораторная работа 4
@@ -21,6 +20,7 @@ header-includes:
  - '\makeatother'
 aspectratio: 43
 section-titles: true
+
 ---
 
 ## Цели работы
