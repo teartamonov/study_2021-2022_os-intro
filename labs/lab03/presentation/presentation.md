@@ -1,7 +1,8 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Лабораторная работа 3
+title: 
+        Лабораторная работа 3
 subtitle: Markdown
 author: Timofey E. Artamonov\inst{1}
 institute: inst{1}RUDN University, Moscow, Russian Federation
