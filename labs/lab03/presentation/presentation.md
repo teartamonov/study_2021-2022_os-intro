@@ -4,10 +4,10 @@ lang: ru-RU
 title: Лабораторная работа 3
 subtitle: Markdown
 author: |
-	\Timofey E. Artamonov\inst{1}
+	Timofey E. Artamonov\inst{1}
 institute: |
-	\inst{1}RUDN University, Moscow, Russian Federation
-date: NEC--2019, 30 September -- 4 October, 2019 Budva, Montenegro
+	inst{1}RUDN University, Moscow, Russian Federation
+date: April 30^th^ 2022
 
 ## Formatting
 toc: false
@@ -35,4 +35,3 @@ section-titles: true
 
 Научились делать отчёты в Маркдауне
 
-## {.standout}
