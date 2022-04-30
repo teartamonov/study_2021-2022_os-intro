@@ -2,8 +2,7 @@
 ## Front matter
 lang: ru-RU
 title: 
-        Лабораторная работа 3
-subtitle: Markdown
+        Проект часть 1
 author: Timofey E. Artamonov
 institute: RUDN University, Moscow, Russian Federation
 date: April 30^th^ 2022
