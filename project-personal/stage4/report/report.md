@@ -91,7 +91,7 @@ header-includes:
 
 ![image](https://user-images.githubusercontent.com/104139992/169654741-65b6f194-8ca9-4bda-8bda-eec58a10e9e7.png){рис. 4}
 
-Сделали публикацию по Markdown (рис. 5 и 6)
+Сделали публикацию (рис. 5 и 6)
 
 ![image](https://user-images.githubusercontent.com/104139992/169654747-ce64de4b-34c8-4894-b9fc-fd6f5b23ff0e.png){рис. 5}
 
